@@ -4,3 +4,4 @@
 
 ## 설치 가이드
 ### JDK Version 22
+### DataBase Mysql
