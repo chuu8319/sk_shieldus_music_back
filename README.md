@@ -22,6 +22,7 @@ spring.datasource.hikari.username=springboot
 spring.datasource.hikari.password=p@ssw0rd 
 
 */
+
 spring.datasource.hikari.connection-test-query=select 1
 
 mybatis.configuration.map-underscore-to-camel-case=true
